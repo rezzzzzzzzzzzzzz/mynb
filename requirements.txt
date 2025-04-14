@@ -50,3 +50,4 @@ bqplot
 jupyterlab-tour
 jupyterlab-night
 jupyterlite-ai
+ipywidgets
