@@ -51,3 +51,4 @@ jupyterlab-tour
 jupyterlab-night
 jupyterlite-ai
 ipywidgets
+proxybroker
