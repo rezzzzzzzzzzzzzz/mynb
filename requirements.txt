@@ -52,3 +52,4 @@ jupyterlab-night
 jupyterlite-ai
 ipywidgets
 proxybroker
+setuptools
