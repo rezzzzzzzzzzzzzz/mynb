@@ -1,2 +1,3 @@
 # My JupyterLite
-Work in progress
+
+https://rezzzzzzzzzzzzzz.github.io/mynb/
