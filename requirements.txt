@@ -1,4 +1,4 @@
-# Core modules (mandatory)
+v# Core modules (mandatory)
 jupyterlite-core==0.5.0
 jupyterlab~=4.3.4
 notebook~=7.3.2
@@ -54,3 +54,4 @@ ipywidgets
 duckai
 setuptools
 buckaroo
+google
