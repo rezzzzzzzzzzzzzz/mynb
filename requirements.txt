@@ -54,3 +54,4 @@ ipywidgets
 duckai
 setuptools
 buckaroo
+duckduckgo-search
