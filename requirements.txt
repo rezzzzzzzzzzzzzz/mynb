@@ -53,3 +53,4 @@ jupyterlite-ai
 ipywidgets
 duckai
 setuptools
+buckaroo
