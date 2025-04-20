@@ -54,4 +54,3 @@ ipywidgets
 duckai
 setuptools
 buckaroo
-google
