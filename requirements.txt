@@ -50,7 +50,6 @@ bqplot
 jupyterlab-tour
 jupyterlab-night
 jupyterlite-ai
-ipywidgets
 duckai
 setuptools
 buckaroo
