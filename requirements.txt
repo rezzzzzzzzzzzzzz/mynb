@@ -54,3 +54,4 @@ duckai
 setuptools
 buckaroo
 duckduckgo-search
+primp
