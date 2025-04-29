@@ -52,7 +52,6 @@ jupyterlab-night
 jupyterlite-ai
 duckai
 setuptools
-buckaroo
 duck-chat
 duckduckgo-search
 primp
